@@ -1,5 +1,5 @@
 <?php
-include_once __DIR__ . '/../src/fun4.php';
+include_once __DIR__ . '/../src/fun6.php';
 
 class FunTest extends \PHPUnit\Framework\TestCase
 {
