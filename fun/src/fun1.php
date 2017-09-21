@@ -6,7 +6,6 @@
    присутствующего в названии, т.е. на «серебро» или «золото».  */
 function transform($a)
 {
-    print_r($a);
     $str_obrez = [];
     $kol_obrez=0;
     for ($i=0; $i<count($a); $i++) {

@@ -1,5 +1,4 @@
 <?php
-//  require_once('../../src/fun1.php');
 include_once __DIR__ . '/../src/fun4.php';
 
 class FunTest extends \PHPUnit\Framework\TestCase
